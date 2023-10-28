@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# Odin Boilerplate
 
 > One paragraph statement about the project.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://suarez001.github.io/repo-Html_boilerplate-odin/)
 
 
 ## Getting Started
@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-### Run tests
+### Run testsit
 
 ### Deployment
 
@@ -47,10 +47,6 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@suarez001](https://github.com/suarez001)
 
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
 
 
 ## 🤝 Contributing
